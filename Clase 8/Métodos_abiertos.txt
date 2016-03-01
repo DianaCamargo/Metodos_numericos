@@ -1,0 +1,20 @@
+-Metodo de punto fijo: requiere pasos manuales. Para ecuaciones faciles de DESPEJAR X.
+                        f(x)--->> x= g(x) volver x una función de x
+                        xi+1=g(xi)
+                        
+-Método de newton-Raphson:se HALLA LA DERIVADA a la funcion y se ve el punto de corte con el eje x.
+                        xi+i=xi-(f(xi)/f'(xi))
+-Metodo de la secante: Es una aproximacin de la derivada (aprox en diferencias finitas). Suele converger más rapido que el resto.
+                        xi+1=f(xi)(xi-1-xi)/f(xi-1)-f(xi)
+-Metodo secante modificada: 
+                            xi+1=xi-(delta*xi*f(xi)/f(xi+delta)-f(xi))
+                            
+Laboratorio 1 de marzo:
+        1. implementar cada uno de los metodos abiertos para hallar raices
+        2.para la funcion f(x)=e^-x  -x halle la raiz por cada uno de los siguientes métodos abiertos y cerrado vistos:
+            -biseccion
+            -punto fijo
+            -newton raphson
+            -secante
+            -secante modificada
+        3.graficar el error relativo porcentual verdadero y analice las diferencias entre los métodos y cual converger mejor.
