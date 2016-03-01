@@ -1,0 +1,5 @@
+#Comparacion de metodo de biseccion y falsa posicion Ejemplo 5.6 chapra
+
+Comparando los ejercicios de metodos cerrados anteriormente resueltos en clase, 
+biseccion y falsa posicion podemos apreciar que el metodo de falsa posicion no fue mejor que el de biseccion,
+se vio que en este ultimo hubo menos iteracciones que el de falsa posicion para llegar a un error tolerado mas o menos igual.
