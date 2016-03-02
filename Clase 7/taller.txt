@@ -1,4 +1,4 @@
-1.Implementar el metodo de la falsa posicion.
+1.Implementar el metodo de la falsa posicion...
 2.Compare el desempeño del error relativo porcentual 
   verdadero de los ejemplos 5.4 y 5.5 usando los metodos biseccion y falsa posicion
 3.Comparar los metodos de biseccion y falsa posicion del ejemplo 5.6
